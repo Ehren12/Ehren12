@@ -14,7 +14,7 @@ To be honest its not easy balancing school and programming, they are both things
 
 ## Some of my ***history*** 
 I started software development when i was *10* years old.
-My very first language was ***Python*** and over the years my knowledge in various languages like; ***Nodejs*** and ***Typescript*** have only grown larger.
+My very first language was ***Python*** and over the years my knowledge in various languages and tools like; ***Nodejs*** and ***Typescript*** have only grown larger.
 
 I have so many mentors and people I look up to in the tech space, and really wish to use technology as a tool to make human life and our ~~earth~~ *planet* at large **better**.
 
@@ -26,16 +26,15 @@ I have so many mentors and people I look up to in the tech space, and really wis
  - [x] NextJS
  - [x] ReactJS
  - [x] Nodejs
- - [ ] Ruby on Rails
- - [ ] React Native
+ - [ ] Algorithms & Datastructures
  - [x] MongoDB
  - [x] TypeScript
- - [ ] GoLang
- - [ ] GraphQL
+ - [ ] Design Patterns
+ - [x] GraphQL
  - [x] Prisma
  - [x] tRPC
  - [ ] C#
- - [ ] R
+ - [ ] Terraform
  - [ ] Tensorflow
  
 
