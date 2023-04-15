@@ -7,8 +7,7 @@ Here are some things to note about me;
 - 💬 You could ask me about any thing concerning tech!
 - 📫 How to reach me: You can email me at **nwokochaehren@gmail.com**
 - 😄 Pronouns: he/his
-- ⚡ Did you know I'm 14 years old?
--  🙃 Feel free to collaborate on my projects
+- 🙃 Feel free to collaborate on my projects
 
 To be honest its not easy balancing school and programming, they are both things that need a lot of attentention in order to be good at them😅. However, I'm able to balance my school life 📚, my life as a programmer 💻 and my personal life 👨‍👩‍👧‍👧which is something I feel very proud of.
 
