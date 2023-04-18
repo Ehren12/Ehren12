@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=Ehren12&style=flat-square&color=blue" alt=""/>
+
 ### Hi there 👋🏻
 I'm **Ehren Nwokocha**. I really love software and helping people with it 🙂
 Here are some things to note about me;
