@@ -14,6 +14,7 @@ Here are some things to note about me;
 
 To be honest, it's not easy balancing school and programming, they are both things that need a lot of attention in order to be good at them😅. However, I'm able to balance my school life 📚, my life as a programmer 💻, and my personal life 👨‍👩‍👧‍👧which is something I feel very proud of.
 
+
 ## Some of my ***history*** 
 I started software development when I was *10* years old.
 My very first language was ***Python*** and over the years my knowledge in various languages and tools like; ***Nextjs***, ***C***, and ***Typescript*** has only grown larger.
@@ -26,8 +27,6 @@ I have so many mentors and people I look up to in the tech space, and really wis
 These are the languages I use:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehren12&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ehren12)](https://github.com/Ehren12/C-http-server/)
 
 ## Moving forward...
 To be honest I love to describe myself as a beginner as I keep learning every day. I want to be very good at my work and be a skilled Software Engineer!
