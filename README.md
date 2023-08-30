@@ -20,16 +20,8 @@ My very first language was ***Python*** and over the years my knowledge in vario
 
 I have so many mentors and people I look up to in the tech space, and really wish to use technology as a tool to make human life and our ~~earth~~ *planet* at large **better**.
 
-## Some Stats
-As you can see my GitHub needs a little bit more work 😅
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ehren12&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### More GitHub info about me!
-This is my most recent repo:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ehren12&repo=rhidea)](https://github.com/Ehren12/C)
+### Some GitHub info...
 
 These are the languages I use:
 
