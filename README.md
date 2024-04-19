@@ -17,7 +17,7 @@ To be honest, it's not easy balancing school and programming, they are both thin
 
 ## Some of my ***history*** 
 I started software development when I was *10* years old.
-My very first language was ***Python*** and over the years my knowledge in various languages and tools like; ***Nextjs***, ***C***, and ***Typescript*** has only grown larger.
+My very first language was ***Python*** and over the years my knowledge in various languages and tools like; ***Astrojs***, ***Nextjs***, ***React***, ***C***, ***Typescript***, and ***Java*** has only grown larger.
 
 I have so many mentors and people I look up to in the tech space, and really wish to use technology as a tool to make human life and our ~~earth~~ *planet* at large **better**.
 
