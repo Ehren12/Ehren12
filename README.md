@@ -12,7 +12,7 @@ Here are some things to note about me;
 - 💬 You could ask me about anything concerning tech!
 - 📫 How to reach me: You can email me at **nwokochaehren@gmail.com**
 - 😄 Pronouns: he/his
-- 🙃 Feel free to collaborate on my projects
+- 🙃 I've written a couple Github Gists so you can [check them out](https://gists.github.com/Ehren12/)
 
 To be honest, it's not easy balancing school and programming, they are both things that need a lot of attention in order to be good at them😅. However, I'm able to balance my school life 📚, my life as a programmer 💻, and my personal life 👨‍👩‍👧‍👧which is something I feel very proud of.
 
